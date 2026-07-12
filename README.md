@@ -1,7 +1,6 @@
 <p align="center">
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/921dd3db-d2b0-4352-aebf-35610643bb4b" />
 
-"/>
 </p>
 
 <h1>Active Directory - Creating Users In Powershell</h1>
