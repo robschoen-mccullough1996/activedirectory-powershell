@@ -10,8 +10,11 @@ This tutorial will provide the steps to creating and managing users for Active D
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory
-- Powershell
 
+<h2>Programming Languages Used</h2>
+
+- Powershell
+- 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Enterprise</b> (22H2)
