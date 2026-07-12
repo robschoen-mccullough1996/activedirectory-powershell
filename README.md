@@ -2,8 +2,8 @@
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/921dd3db-d2b0-4352-aebf-35610643bb4b" />
 
 
-<h1>Active Directory - Creating Users In Powershell</h1>
-This tutorial will show how to create and manage users for Active Directory using Powershell.<br />
+<h1>Active Directory - Creating Users In PowerShell</h1>
+This tutorial will provide the steps to creating and managing users for Active Directory using PowerShell.<br />
 
 <h2>Environments and Technologies Used</h2>
 
