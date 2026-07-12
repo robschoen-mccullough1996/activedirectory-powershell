@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="<img width="860" height="531" alt="image" src="https://github.com/user-attachments/assets/8abb33c8-c9e0-441a-ac80-1362507a4792" />
+"/>
 </p>
 
 <h1>Active Directory - Creating Users In Powershell</h1>
