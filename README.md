@@ -9,9 +9,6 @@ This tutorial will provide the steps to creating and managing users for Active D
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory
-
-<h2>Programming Languages Used</h2>
-
 - PowerShell
   
 <h2>Operating Systems Used </h2>
