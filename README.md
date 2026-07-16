@@ -1,8 +1,5 @@
 <p align="center">
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/11eabd94-54df-4aad-afb7-1478fb2059fd" />
-/>
- />
-
 
 <h1>Active Directory - Creating Users Through PowerShell</h1>
 This tutorial will provide the steps to creating and managing users for Active Directory using PowerShell.<br />
