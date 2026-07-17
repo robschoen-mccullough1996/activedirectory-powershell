@@ -2,7 +2,7 @@
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/11eabd94-54df-4aad-afb7-1478fb2059fd" />
 
 <h1>Active Directory - Creating AD System Infrastructure With Microsoft Azure</h1>
-This tutorial will provide the steps to setting up a general infrastrurcture for the user management system resource of Active Directory through Microsoft Azure's virtual networks.Steps will also be included that will help users with ensuring successful setup of the infrastruture. <br />
+This tutorial will provide the steps to setting up a general infrastrurcture for the user management system resource of Active Directory through Microsoft Azure's virtual networks. Steps will also be included to help users with verifying successful setup of the infrastruture. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -23,7 +23,7 @@ This tutorial will provide the steps to setting up a general infrastrurcture for
 - Item 4
 - Item 5
 
-<h2>User Creation Steps</h2>
+<h2>AD Infrastructure Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
