@@ -1,8 +1,8 @@
 <p align="center">
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/11eabd94-54df-4aad-afb7-1478fb2059fd" />
 
-<h1>Active Directory - Creating Users Through PowerShell</h1>
-This tutorial will provide the steps to creating and managing users for Active Directory using PowerShell.<br />
+<h1>Active Directory - Creating AD System Infrastructure With Microsoft Azure</h1>
+This tutorial will provide the steps to setting up a general infrastrurcture for the user management system resource of Active Directory through Microsoft Azure's virtual networks.Steps will also be included that will help users with ensuring successful setup of the infrastruture. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -15,7 +15,7 @@ This tutorial will provide the steps to creating and managing users for Active D
 
 - Windows 10 Enterprise</b> (22H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Setting Up AD Infrastructure</h2>
 
 - Install Active Directory Domain Services
 - Set up Active Directory forest (ex. rsmdomain.com) and log
